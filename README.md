@@ -136,16 +136,15 @@ Slab: slab представляет собой непрерывный участ
 Клиентская часть
 
 
-
+![alt tag](https://github.com/alexander121212/rootkit/blob/master/imgs/1.png)
 
 Рисунок 4. Сборка драйвера утилитой make.
 
-
-
+![alt tag](https://github.com/alexander121212/rootkit/blob/master/imgs/2.png)
 
 
 Рисунок 5. Загрузка драйвера в ядро утилитой insmod.
-
+![alt tag](https://github.com/alexander121212/rootkit/blob/master/imgs/3.png)
 
 
 
@@ -154,11 +153,11 @@ Slab: slab представляет собой непрерывный участ
 Серверная часть
 
 
-
+![alt tag](https://github.com/alexander121212/rootkit/blob/master/imgs/4.png)
 
 Рисунок 7. Прием пакетов на сервере.
 
-
+![alt tag](https://github.com/alexander121212/rootkit/blob/master/imgs/5.png)
 
 
 Рисунок 8. Прием пакетов на сервер.
